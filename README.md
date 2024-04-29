@@ -26,6 +26,7 @@ Para ejecutar la aplicacion  el usuario primero debera compilar el programa con 
 <li>Luego para hacer correr el contenedor ejecutar:</li>
 <p><em>docker compose up --build</em></p>
 </ul>
+
 ![alt text](https://github.com/danielzerain/reto1_lt/blob/main/mdFiles/docker.png?raw=true)
 
 # Como consumir los servicios
